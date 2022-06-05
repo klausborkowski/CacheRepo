@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "default~iris:JACKIE",
+			"uri": "isfs://default~iris:jackie/"
+		},
+		{
+			"name": "default~iris:BRONTO",
+			"uri": "isfs://default~iris:bronto/"
+		}
+	]
+}
