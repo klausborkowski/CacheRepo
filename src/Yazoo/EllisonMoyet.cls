@@ -3,6 +3,11 @@ Class Yazoo.EllisonMoyet Extends %Persistent
 
 Property wasBornInBasildon As %Boolean;
 
+ClassMethod getTheHairColor()
+{
+	return "Red"
+}
+
 Storage Default
 {
 <Data name="EllisonMoyetDefaultData">
